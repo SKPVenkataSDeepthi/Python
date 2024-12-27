@@ -1,4 +1,4 @@
-# Data Science
+# Python
 
 ## ![Background](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l1bm1vd2R2eWdmMnRqYXZ0bWR1ZnpxaGkyMnBjZm42cjQ0ejVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp)
 
