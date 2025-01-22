@@ -33,7 +33,7 @@ Ex: Searching your friend in a party
 ## Big-Omega - Lower Bound
 * Best and Worst Case
 * Exact time it takes to search for your friend 
-* Whether the part has 100 or 500 it always takes same amount of time to find your friend. 
+* Whether the party has 100 or 500 it always takes same amount of time to find your friend. 
 
 ## Big-Theta - Both(Big-O, Big-Omega) - Tight bound on runtime
 * Best Case 
