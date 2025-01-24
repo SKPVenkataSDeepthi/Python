@@ -436,3 +436,11 @@ Limited fuel provided for small aircraft only.
 Minimal baggage handling service available."""
 
 
+# super(): super() is used to call methods of a superclass (parent class) from a subclass (child class). It returns a proxy object that delegates method calls to the superclass. This is useful for accessing inherited methods that have been overridden in a subclass.
+class ChildClass(ParentClass):
+    def __init__(self, arg1, arg2):
+        super().__init__(arg1)  # Calls the __init__() method of the ParentClass
+        self.arg2 = arg2
+
+""" Encapsulation, Abstraction, Inheritance and Polymorphism are called the four pillars of OOPs in Python..."""
+
