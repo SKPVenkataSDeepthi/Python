@@ -37,7 +37,8 @@ aircraft3 = Aircraft("Cessna 172", 4, "Cessna")
 print(f"{aircraft1.model} is a {Aircraft.category} vehicle with a capacity of {aircraft1.capacity} passengers, manufactured by {aircraft1.manufacturer}.")
 print(f"{aircraft2.model} is a {Aircraft.category} vehicle with a capacity of {aircraft2.capacity} passengers, manufactured by {aircraft2.manufacturer}.")
 print(f"{aircraft3.model} is a {Aircraft.category} vehicle with a capacity of {aircraft3.capacity} passengers, manufactured by {aircraft3.manufacturer}.")
-""" O/P: Boeing 737 is a Aviation vehicle with a capacity of 160 passengers, manufactured by Boeing.
+""" O/P: 
+Boeing 737 is a Aviation vehicle with a capacity of 160 passengers, manufactured by Boeing.
 Airbus A320 is a Aviation vehicle with a capacity of 180 passengers, manufactured by Airbus.
 Cessna 172 is a Aviation vehicle with a capacity of 4 passengers, manufactured by Cessna."""
 
