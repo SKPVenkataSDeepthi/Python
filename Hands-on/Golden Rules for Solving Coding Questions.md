@@ -1,6 +1,6 @@
 # GOLDEN RULES FOR SOLVING CODING QUESTIONS
 
-![Funny Meme](https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fbg9l9ruzr0ia1.gif)
+![Funny Meme](https://media.licdn.com/dms/image/v2/D4D22AQFt_XNanHmx4A/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1730006100563?e=2147483647&v=beta&t=Is6z_A2Fki4XztSUOkw3rEBKrpCIzwpZ0JnzbxkYLvY)
 
 # RULE-1
 If we are dealing with top/max/min/closest "k" elements among "N" elements, we will be using "heap".
