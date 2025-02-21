@@ -26,6 +26,8 @@ This repository contains hands-on practice related to Python, including referenc
 - Check out my LeetCode problem-solving approach for learning new techniques.
 
 
+---
+
 ```python
 import this
 
