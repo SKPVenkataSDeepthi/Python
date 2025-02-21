@@ -2,26 +2,35 @@
 
 ## ![Background](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3l1bm1vd2R2eWdmMnRqYXZ0bWR1ZnpxaGkyMnBjZm42cjQ0ejVxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.webp)
 
-## Interview Prep
-This section contains interview preparation documents and examples to help you crack the interview.
+# Python Repository
 
-- [Hands-on Examples](https://github.com/SKPVenkataSDeepthi/Python/tree/main/Interview%20Prep)
+![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
 
-## Reference Books
-A list of recommended books that provide in-depth knowledge on python.
+## 📌 Overview
+This repository contains hands-on practice related to Python, including reference books, practice books, and my approach to solving LeetCode problems.
 
-- [Reference Books](https://github.com/SKPVenkataSDeepthi/Python/tree/main/Ref.%20Books)
+## 📂 Repository Structure
+- 📘 **Reference Books** – Collection of Python reference materials.
+- 📖 **Practice Books** – Python practice exercises and books.
+- 🏆 **LeetCode Solutions** – My approach to solving LeetCode problems with explanations.
+- 📝 **Hands-on Python** – Practical implementations and coding exercises.
 
-## Practice Books
-A list of practice books that provide in-depth knowledge on python.
+## 🛠️ Technologies Used
+- Python 3.x
+- Jupyter Notebook
+- VS Code / PyCharm
 
-- [Practice Books](https://github.com/SKPVenkataSDeepthi/Python/tree/main/Practice%20Books)
+## 💡 How to Use
+- Explore different Python topics through the reference books.
+- Practice with the exercises from practice books.
+- Check out my LeetCode problem-solving approach for learning new techniques.
 
-## Hands-on 
-This section contains practical exercises and examples to help you get hands-on experience with machine learning concepts.
 
-- [Hands-on](https://github.com/SKPVenkataSDeepthi/Python/tree/main/Hands-on)
-  
+```python
+import this
+
+print("🐍 Keep coding, keep exploring! 🚀")
+````
 ---
 
-<p align="center">&copy; 2024 Venkata Sri Deepthi SriKotaPeetambaram | Python Repository</p>
+<p align="center">&copy; 2025 Venkata Sri Deepthi SriKotaPeetambaram | Python Repository</p>
